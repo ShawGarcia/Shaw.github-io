@@ -161,6 +161,18 @@
         <content type="html"><![CDATA[<p>其实本来就有语法总览的网站：<a href="https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88">Markdown语法总览</a></p><p>虽然已经有官网了，但我想着反正自己要试用，干脆写成一个博客罢（</p><h2 id="基本语法"><a href="#基本语法" class="headerlink" title="基本语法"></a>基本语法</h2><ul><li><p>标题(Heading)：在标题之前加“#”，#越多标题越小。(一共六级)</p></li><li><p>粗体(Bold)：在要加粗的字两边分别加两个星号，比如<strong>这个</strong>，两个星号–&gt;**。</p></li><li><p>斜体(Italic)：在斜体的字两边分别加一个星号，比如<em>这个</em>。</p></li><li><p>引用块(Blockquote)：在要引用的部分之前加“&gt;”，如下：</p><blockquote><p>明日的夜空哨戒班</p></blockquote></li><li><p>有序列表(Ordered List)：阿拉伯数字+小数点就行了，如下：</p><ol><li>塞尔达传说：时之笛</li><li>塞尔达传说：王国之泪</li><li>塞尔达传说：旷野之息</li></ol></li><li><p>无序列表(Unordered List)：前面每一个语法前的点其实是“-”，用的就是无序列表</p></li><li><p>代码(Code)：用键盘左上角的反引号括起来&#96;&#96;，比如<code>cout&lt;&lt;&quot;一键三连&quot;&lt;&lt;endl;</code></p></li><li><p>分隔线(Horizontal Rule)：在单独一行使用“—”、“***”、“___”，如下</p></li></ul><hr><hr><hr><ul><li>链接(Link)：[title]，在这之后加(具体链接)，如下<ul><li>传送到我的B站：<a href="https://space.bilibili.com/291635881?spm_id_from=333.1007.0.0">Shaw的bilibili主页</a></li></ul></li><li>图片(Image)：不知道能不能显示出来，总之先试试：使用!,后跟[alt text]，再之后是(“图片路径”)，如下：<ul><li><img src="https://img1.imgtp.com/2023/08/18/JL8ulpYD.png" alt="梅祖拉假面"></li></ul></li></ul><h2 id="拓展语法"><a href="#拓展语法" class="headerlink" title="拓展语法"></a>拓展语法</h2><ul><li>表格(Table)：用|和-画就好了（<a href="https://markdown.com.cn/extended-syntax/tables.html">具体点这里</a>，如下：</li></ul><table><thead><tr><th align="center">序号</th><th align="center">名称</th><th align="center">职业</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">塞尔达</td><td align="center">公主</td></tr><tr><td align="center">2</td><td align="center">林克</td><td align="center">勇者</td></tr></tbody></table><ul><li>代码块(Fenced Code Block)：在代码块之前和之后的行上使用三个反引号（(&#96;&#96;&#96;）或三个波浪号（~~~），可以在第一次反引号之后加语言的名字实现语法高亮，如下<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">cout&lt;&lt;<span class="string">&quot;emm&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li><li>脚注(Footnote)：用[]里加^和阿拉伯数字来实现，[^2]这样的，这里需要一个注释。<a href="%E8%BF%99%E6%98%AF%E6%B3%A8%E9%87%8A">^1</a>，啊，好像点进去后能在网址栏看到注释，我还不是很清楚这个怎么用。</li><li>标题编号(Heading ID)：要添加自定义标题ID，请在与标题相同的行上用大括号括起该自定义ID。(<a href="https://markdown.com.cn/extended-syntax/heading-ids.html">具体参考</a>)</li><li>定义列表(Definition list)：用于定义一些术语，第一行写术语的名字，第二行先输冒号，然后解释。</li></ul><dl><dt>Shaw</dt><dd>写这个博客的人</dd></dl><ul><li>删除线，前后分别用两个~括起来就好了，<del>像这样</del></li><li>任务列表(Task List)用[ ]在列表前进行标记：<ul><li><input checked="" disabled="" type="checkbox"> 吃饭</li><li><input disabled="" type="checkbox"> 睡觉</li><li><input checked="" disabled="" type="checkbox"> 打豆豆</li></ul></li></ul>]]></content>
       
       
+      <categories>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
       
     </entry>
     
@@ -173,6 +185,12 @@
       
         <content type="html"><![CDATA[<p>早中晚上好Hello（？）<br>我的博客网站正式开通啦！（好像暂时算是搞定了）</p><h2 id="网站用途"><a href="#网站用途" class="headerlink" title="网站用途"></a>网站用途</h2><p>大概用来写一些自己的学习心得、笔记之类的地方吧。</p>]]></content>
       
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
       
       
     </entry>

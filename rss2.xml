@@ -9,19 +9,16 @@
     <atom:link href="https://shawgarcia.github.io/Shaw.github-io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>这是我的博客网站</description>
-    <pubDate>Fri, 03 Nov 2023 10:51:44 GMT</pubDate>
+    <pubDate>Mon, 05 Oct 2026 12:04:13 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>堆积木</title>
       <link>https://shawgarcia.github.io/Shaw.github-io/posts/30609.html</link>
       <guid>https://shawgarcia.github.io/Shaw.github-io/posts/30609.html</guid>
-      <pubDate>Fri, 03 Nov 2023 10:50:56 GMT</pubDate>
+      <pubDate>Thu, 02 Nov 2023 16:00:00 GMT</pubDate>
       
-        
-        
-      <description>&lt;h2 id=&quot;堆积木&quot;&gt;&lt;a href=&quot;#堆积木&quot; class=&quot;headerlink&quot; title=&quot;堆积木&quot;&gt;&lt;/a&gt;堆积木&lt;/h2&gt;&lt;p&gt;蒜头君有 n 块积木，编号分别为 1 到 n。一开始，蒜头把第 i 块积木放在位置 i。蒜头君进行 m 次操作，每次操作，蒜头把位置</description>
-        
+      <description>广义表的应用——积木堆叠移动模拟。</description>
       
       
       
@@ -42,12 +39,9 @@
       <title>幻方矩阵&amp;话题焦点人物</title>
       <link>https://shawgarcia.github.io/Shaw.github-io/posts/42025.html</link>
       <guid>https://shawgarcia.github.io/Shaw.github-io/posts/42025.html</guid>
-      <pubDate>Fri, 03 Nov 2023 10:45:26 GMT</pubDate>
+      <pubDate>Thu, 02 Nov 2023 16:00:00 GMT</pubDate>
       
-        
-        
-      <description>&lt;h2 id=&quot;幻方矩阵&quot;&gt;&lt;a href=&quot;#幻方矩阵&quot; class=&quot;headerlink&quot; title=&quot;幻方矩阵&quot;&gt;&lt;/a&gt;幻方矩阵&lt;/h2&gt;&lt;p&gt;一天蒜头君买了一个幻方矩阵，这个矩阵每次可以交换任意两行或者任意两列。花椰妹看到说这么简单的东西，我自己就可以编程实现了。蒜</description>
-        
+      <description>数组与矩阵行列交换，以及微博话题焦点人物统计。</description>
       
       
       
@@ -68,12 +62,9 @@
       <title>回文判断&amp;逆波兰式</title>
       <link>https://shawgarcia.github.io/Shaw.github-io/posts/50961.html</link>
       <guid>https://shawgarcia.github.io/Shaw.github-io/posts/50961.html</guid>
-      <pubDate>Thu, 02 Nov 2023 01:55:31 GMT</pubDate>
+      <pubDate>Wed, 01 Nov 2023 16:00:00 GMT</pubDate>
       
-        
-        
-      <description>&lt;h2 id=&quot;回文判断&quot;&gt;&lt;a href=&quot;#回文判断&quot; class=&quot;headerlink&quot; title=&quot;回文判断&quot;&gt;&lt;/a&gt;回文判断&lt;/h2&gt;&lt;p&gt;我们把正读和反读都相同的字符序列称为“回文”，例如&lt;code&gt;abba&lt;/code&gt;和&lt;code&gt;abcba&lt;/code&gt;是</description>
-        
+      <description>栈的应用——回文判断与逆波兰式求值。</description>
       
       
       
@@ -94,12 +85,9 @@
       <title>蒜头君的魔法机</title>
       <link>https://shawgarcia.github.io/Shaw.github-io/posts/44813.html</link>
       <guid>https://shawgarcia.github.io/Shaw.github-io/posts/44813.html</guid>
-      <pubDate>Wed, 25 Oct 2023 11:04:34 GMT</pubDate>
+      <pubDate>Tue, 24 Oct 2023 16:00:00 GMT</pubDate>
       
-        
-        
-      <description>&lt;h2 id=&quot;蒜头君的魔法机&quot;&gt;&lt;a href=&quot;#蒜头君的魔法机&quot; class=&quot;headerlink&quot; title=&quot;蒜头君的魔法机&quot;&gt;&lt;/a&gt;蒜头君的魔法机&lt;/h2&gt;&lt;p&gt;蒜头君有一台神奇的魔法机，它能将输入的序列进行一系列复杂的变换，输出原序列的另一种排列方式。蒜头君十</description>
-        
+      <description>栈模拟——判断目标出栈序列是否合法。</description>
       
       
       
@@ -120,12 +108,9 @@
       <title>队列：通话记录</title>
       <link>https://shawgarcia.github.io/Shaw.github-io/posts/44812.html</link>
       <guid>https://shawgarcia.github.io/Shaw.github-io/posts/44812.html</guid>
-      <pubDate>Tue, 24 Oct 2023 15:09:00 GMT</pubDate>
+      <pubDate>Mon, 23 Oct 2023 16:00:00 GMT</pubDate>
       
-        
-        
-      <description>&lt;h2 id=&quot;通话记录（队列）&quot;&gt;&lt;a href=&quot;#通话记录（队列）&quot; class=&quot;headerlink&quot; title=&quot;通话记录（队列）&quot;&gt;&lt;/a&gt;通话记录（队列）&lt;/h2&gt;&lt;p&gt;已知不超过 50条通话记录，通话记录有三种类型：0代表未接来电，1 代表已接来电，2 代表已</description>
-        
+      <description>队列的应用——三类通话记录的归类与输出。</description>
       
       
       
@@ -146,14 +131,9 @@
       <title>链表初学整理</title>
       <link>https://shawgarcia.github.io/Shaw.github-io/posts/30047.html</link>
       <guid>https://shawgarcia.github.io/Shaw.github-io/posts/30047.html</guid>
-      <pubDate>Sun, 22 Oct 2023 14:43:22 GMT</pubDate>
+      <pubDate>Sat, 21 Oct 2023 16:00:00 GMT</pubDate>
       
-        
-        
-      <description>&lt;h2 id=&quot;链表&quot;&gt;&lt;a href=&quot;#链表&quot; class=&quot;headerlink&quot; title=&quot;链表&quot;&gt;&lt;/a&gt;链表&lt;/h2&gt;&lt;p&gt;首先是对链表的介绍（由chatgpt3.5生成）&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;链表是一种常见的数据结构，它由一系列节点组成，每个</description>
-        
+      <description>链表入门与基础操作整理（有序集合交集、节点增删、单向转双向等）。</description>
       
       
       
@@ -174,19 +154,19 @@
       <title>Markdown语法总览</title>
       <link>https://shawgarcia.github.io/Shaw.github-io/posts/60386.html</link>
       <guid>https://shawgarcia.github.io/Shaw.github-io/posts/60386.html</guid>
-      <pubDate>Fri, 18 Aug 2023 02:27:03 GMT</pubDate>
+      <pubDate>Thu, 17 Aug 2023 16:00:00 GMT</pubDate>
       
-        
-        
-      <description>&lt;p&gt;其实本来就有语法总览的网站：&lt;a href=&quot;https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88&quot;&gt;Markdown语法总览&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;虽然已经有官网了，但我想着反正自己要试用，干脆写成一个博客</description>
-        
+      <description>Markdown 常用语法速查与示例。</description>
       
       
       
       <content:encoded><![CDATA[<p>其实本来就有语法总览的网站：<a href="https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88">Markdown语法总览</a></p><p>虽然已经有官网了，但我想着反正自己要试用，干脆写成一个博客罢（</p><h2 id="基本语法"><a href="#基本语法" class="headerlink" title="基本语法"></a>基本语法</h2><ul><li><p>标题(Heading)：在标题之前加“#”，#越多标题越小。(一共六级)</p></li><li><p>粗体(Bold)：在要加粗的字两边分别加两个星号，比如<strong>这个</strong>，两个星号–&gt;**。</p></li><li><p>斜体(Italic)：在斜体的字两边分别加一个星号，比如<em>这个</em>。</p></li><li><p>引用块(Blockquote)：在要引用的部分之前加“&gt;”，如下：</p><blockquote><p>明日的夜空哨戒班</p></blockquote></li><li><p>有序列表(Ordered List)：阿拉伯数字+小数点就行了，如下：</p><ol><li>塞尔达传说：时之笛</li><li>塞尔达传说：王国之泪</li><li>塞尔达传说：旷野之息</li></ol></li><li><p>无序列表(Unordered List)：前面每一个语法前的点其实是“-”，用的就是无序列表</p></li><li><p>代码(Code)：用键盘左上角的反引号括起来&#96;&#96;，比如<code>cout&lt;&lt;&quot;一键三连&quot;&lt;&lt;endl;</code></p></li><li><p>分隔线(Horizontal Rule)：在单独一行使用“—”、“***”、“___”，如下</p></li></ul><hr><hr><hr><ul><li>链接(Link)：[title]，在这之后加(具体链接)，如下<ul><li>传送到我的B站：<a href="https://space.bilibili.com/291635881?spm_id_from=333.1007.0.0">Shaw的bilibili主页</a></li></ul></li><li>图片(Image)：不知道能不能显示出来，总之先试试：使用!,后跟[alt text]，再之后是(“图片路径”)，如下：<ul><li><img src="https://img1.imgtp.com/2023/08/18/JL8ulpYD.png" alt="梅祖拉假面"></li></ul></li></ul><h2 id="拓展语法"><a href="#拓展语法" class="headerlink" title="拓展语法"></a>拓展语法</h2><ul><li>表格(Table)：用|和-画就好了（<a href="https://markdown.com.cn/extended-syntax/tables.html">具体点这里</a>，如下：</li></ul><table><thead><tr><th align="center">序号</th><th align="center">名称</th><th align="center">职业</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">塞尔达</td><td align="center">公主</td></tr><tr><td align="center">2</td><td align="center">林克</td><td align="center">勇者</td></tr></tbody></table><ul><li>代码块(Fenced Code Block)：在代码块之前和之后的行上使用三个反引号（(&#96;&#96;&#96;）或三个波浪号（~~~），可以在第一次反引号之后加语言的名字实现语法高亮，如下<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">cout&lt;&lt;<span class="string">&quot;emm&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li><li>脚注(Footnote)：用[]里加^和阿拉伯数字来实现，[^2]这样的，这里需要一个注释。<a href="%E8%BF%99%E6%98%AF%E6%B3%A8%E9%87%8A">^1</a>，啊，好像点进去后能在网址栏看到注释，我还不是很清楚这个怎么用。</li><li>标题编号(Heading ID)：要添加自定义标题ID，请在与标题相同的行上用大括号括起该自定义ID。(<a href="https://markdown.com.cn/extended-syntax/heading-ids.html">具体参考</a>)</li><li>定义列表(Definition list)：用于定义一些术语，第一行写术语的名字，第二行先输冒号，然后解释。</li></ul><dl><dt>Shaw</dt><dd>写这个博客的人</dd></dl><ul><li>删除线，前后分别用两个~括起来就好了，<del>像这样</del></li><li>任务列表(Task List)用[ ]在列表前进行标记：<ul><li><input checked="" disabled="" type="checkbox"> 吃饭</li><li><input disabled="" type="checkbox"> 睡觉</li><li><input checked="" disabled="" type="checkbox"> 打豆豆</li></ul></li></ul>]]></content:encoded>
       
       
+      <category domain="https://shawgarcia.github.io/Shaw.github-io/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      
+      <category domain="https://shawgarcia.github.io/Shaw.github-io/tags/Markdown/">Markdown</category>
       
       
       <comments>https://shawgarcia.github.io/Shaw.github-io/posts/60386.html#disqus_thread</comments>
@@ -197,18 +177,16 @@
       <title>我的第一个博客</title>
       <link>https://shawgarcia.github.io/Shaw.github-io/posts/57728.html</link>
       <guid>https://shawgarcia.github.io/Shaw.github-io/posts/57728.html</guid>
-      <pubDate>Wed, 16 Aug 2023 10:40:29 GMT</pubDate>
+      <pubDate>Tue, 15 Aug 2023 16:00:00 GMT</pubDate>
       
-        
-        
-      <description>&lt;p&gt;早中晚上好Hello（？）&lt;br&gt;我的博客网站正式开通啦！（好像暂时算是搞定了）&lt;/p&gt;
-&lt;h2 id=&quot;网站用途&quot;&gt;&lt;a href=&quot;#网站用途&quot; class=&quot;headerlink&quot; title=&quot;网站用途&quot;&gt;&lt;/a&gt;网站用途&lt;/h2&gt;&lt;p&gt;大概用来写一些自己的学习心得</description>
-        
+      <description>博客开通公告。</description>
       
       
       
       <content:encoded><![CDATA[<p>早中晚上好Hello（？）<br>我的博客网站正式开通啦！（好像暂时算是搞定了）</p><h2 id="网站用途"><a href="#网站用途" class="headerlink" title="网站用途"></a>网站用途</h2><p>大概用来写一些自己的学习心得、笔记之类的地方吧。</p>]]></content:encoded>
       
+      
+      <category domain="https://shawgarcia.github.io/Shaw.github-io/categories/%E9%9A%8F%E7%AC%94/">随笔</category>
       
       
       
